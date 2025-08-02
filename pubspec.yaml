@@ -37,6 +37,8 @@ dependencies:
   dio: ^5.8.0+1
   geolocator: ^14.0.2
   http: ^1.4.0
+  shared_preferences: ^2.5.3
+  jwt_decoder: ^2.0.1
 
 dev_dependencies:
   flutter_test:
@@ -45,11 +47,11 @@ dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your
-  # package. See that file for information about deactivating specific lint
+  # package. See that file for information_register about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^5.0.0
 
-# For information on the generic Dart part of this file, see the
+# For information_register on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
